@@ -7,4 +7,20 @@
 - **Prodi/Kelas:** Teknik Informatika / TI24G
 
 ---
-<p align="center"> <img src="assets/main1.png" width="300"> </p>
+## Halaman Utama
+<p align="center"> <img src="assets/main1.png" width="100%"> </p>
+<p align="center"> <img src="assets/main2.png" width="100%"> </p>
+
+---
+## Like diklik
+<p align="center"> <img src="assets/like.png" width="100%"> </p>
+<h3> Icon Love yang sebelumnya tidak berwarna menjadi warna merah, dan informasi like bertambah </h3>
+
+---
+## Tambah Keranjang
+<p align="center"> <img src="assets/chart.png" width="100%"> </p>
+<h3> Ketika tombol "+" diklik maka angka akan bertambah dan total harga juga bertambah, ketka tambah ke keranjang di klik akan muncul notifikasi produk ditambahkan </h3>
+
+---
+## Halaman Profile
+<p align="center"> <img src="assets/profile.png" width="100%"> </p>
